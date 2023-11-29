@@ -1,1 +1,12 @@
 /* your code here */
+.product{
+	background:lightgreen;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.product__photo{
+	background:white;
+	display:flex;
+	justify-content:space-between;
+}
