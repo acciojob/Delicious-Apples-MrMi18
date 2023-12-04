@@ -24,7 +24,7 @@ body{
 	display:flex;
 	flex-direction: column;
 	width:200px;
-	margin:20px 0px 0px 0px;
+	margin-left:-50px;
 }
 .controls{
 	display:flex;
